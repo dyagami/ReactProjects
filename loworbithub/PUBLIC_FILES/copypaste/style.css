@@ -1,0 +1,32 @@
+.logotext {
+	
+	display: flex;
+	flex-direction: column;
+	margin-left: 10%;
+	margin-top: 1%;
+	font-size: 30px;
+
+}
+.logotext #editlink {
+
+	display: flex;
+	margin-right: 10%;
+	margin-top: 1%;
+	font-size: 30px;
+	text-align: right !important;
+}
+
+
+.copytext {
+	display: flex;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 10%;
+	flex-direction: row;
+	border: 10px solid;
+	font-size: 30px;
+}
+
+.copytext .textvalue {
+	margin: 0.5%;
+}
